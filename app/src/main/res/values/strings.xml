@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MicroClubApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_formations">Formations</string>
+    <string name="title_events">Events</string>
+    <string name="title_news">News</string>
+    <string name="title_account">Account</string>
 </resources>
